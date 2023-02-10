@@ -1,6 +1,6 @@
 # Vagrant - or - how to code in your local computer
 ## Optional
-Vagrant or local computer
+This file is mandatory in projects
 * What is virtual machine
 * What is vagrant
 * Alx is awesome
